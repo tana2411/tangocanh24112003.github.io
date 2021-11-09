@@ -5,7 +5,7 @@
 
 .header {
   background-size: contain;
-  background-image: url(./svg-image/hero-bg.svg);
+  background-image: url(../tangocanh24112003.github.io/SHAPE/svg-image/hero-bg.svg);
   height: 130vh;
   position: relative;
   background-position: 0px 16rem;
@@ -24,15 +24,15 @@
 }
 .header .header__menu {
   -webkit-box-align: baseline;
-      -ms-flex-align: baseline;
-          align-items: baseline;
+  -ms-flex-align: baseline;
+  align-items: baseline;
   padding: 25px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
   -webkit-box-pack: justify;
-      -ms-flex-pack: justify;
-          justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
   width: 1700px;
   max-width: 100%;
   margin: auto;
@@ -48,22 +48,22 @@
   display: flex;
   width: 50rem;
   -webkit-box-pack: justify;
-      -ms-flex-pack: justify;
-          justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
   -webkit-box-align: baseline;
-      -ms-flex-align: baseline;
-          align-items: baseline;
+  -ms-flex-align: baseline;
+  align-items: baseline;
 }
 .header .menu {
   -webkit-box-align: baseline;
-      -ms-flex-align: baseline;
-          align-items: baseline;
+  -ms-flex-align: baseline;
+  align-items: baseline;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
   -webkit-box-pack: justify;
-      -ms-flex-pack: justify;
-          justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
   width: 500px;
 }
 .header .header__button {
@@ -78,15 +78,15 @@
   display: -ms-flexbox;
   display: flex;
   -webkit-box-pack: justify;
-      -ms-flex-pack: justify;
-          justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
   width: 1600px;
   max-width: 90%;
   margin: 40px auto 0 auto;
 }
 .header .banner .banner__item1 {
   -webkit-transform: translateY(100px);
-          transform: translateY(100px);
+  transform: translateY(100px);
   width: 410px;
 }
 .header .banner h1 {
@@ -123,8 +123,8 @@
   width: 1300px;
   max-width: 90%;
   -webkit-box-pack: justify;
-      -ms-flex-pack: justify;
-          justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
   margin: 60px auto 0 auto;
 }
 .main .area1 {
@@ -133,14 +133,14 @@
   display: -ms-flexbox;
   display: flex;
   -webkit-box-pack: justify;
-      -ms-flex-pack: justify;
-          justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
   width: 1300px;
   max-width: 90%;
 }
 .main .area1 .area1__item1 {
   -webkit-transform: translateY(34px);
-          transform: translateY(34px);
+  transform: translateY(34px);
   width: 425px;
 }
 .main .area1 h2 {
@@ -160,8 +160,8 @@
 .main .area1--reverse {
   -webkit-box-orient: horizontal;
   -webkit-box-direction: reverse;
-      -ms-flex-direction: row-reverse;
-          flex-direction: row-reverse;
+  -ms-flex-direction: row-reverse;
+  flex-direction: row-reverse;
   width: 1300px;
 }
 
@@ -170,7 +170,7 @@
   margin: auto;
   width: 1280px;
   margin-top: 201px;
-  background-image: url(./image/features-bg.png);
+  background-image: url(../tangocanh24112003.github.io/SHAPE/image/features-bg.png);
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -226,21 +226,21 @@
   display: -ms-flexbox;
   display: flex;
   -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
   width: 1800px;
 }
 .area3 .area3__price .item--pro {
   border-top: 3px solid #14ee80 !important;
   -webkit-transform: translateY(-2px);
-          transform: translateY(-2px);
+  transform: translateY(-2px);
 }
 .area3 .area3__price .area3__price--item {
   text-align: center;
   width: 500px;
   border: 1px solid #ebf5ff;
   -webkit-box-shadow: 0px 0px 1px;
-          box-shadow: 0px 0px 1px;
+  box-shadow: 0px 0px 1px;
 }
 .area3 .area3__price .area3__price--item .item--top {
   line-height: 70px;
@@ -259,7 +259,7 @@
   font-size: 24px;
   border-top: 1px solid #ebf5ff;
   -webkit-box-shadow: 0px 0px 1px;
-          box-shadow: 0px 0px 1px;
+  box-shadow: 0px 0px 1px;
 }
 .area3 .area3__price .area3__price--item .item--bottom .area3__button {
   margin-top: 33px;
@@ -282,7 +282,7 @@
 }
 
 .area4 {
-  background-image: url(./image/cta-bg.png);
+  background-image: url(../tangocanh24112003.github.io/SHAPE/image/cta-bg.png);
   padding: 83px 0px 0 0;
   background-position: 0 -3rem;
   background-repeat: no-repeat;
@@ -295,7 +295,7 @@
   display: -ms-flexbox;
   display: flex;
   -ms-flex-pack: distribute;
-      justify-content: space-around;
+  justify-content: space-around;
 }
 .area4 .area4__flex h1 {
   font-size: 50px;
@@ -318,8 +318,8 @@
 
 .footer {
   -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
   margin: 100px auto 125px auto;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -355,7 +355,7 @@
 }
 .footer .footer__subscribe {
   -webkit-box-shadow: 0px 0px 2px;
-          box-shadow: 0px 0px 2px;
+  box-shadow: 0px 0px 2px;
   height: 240px;
   width: 650px;
   border: 1px solid #ddf7ea;
@@ -386,8 +386,8 @@
   display: -ms-flexbox;
   display: flex;
   -webkit-box-align: stretch;
-      -ms-flex-align: stretch;
-          align-items: stretch;
+  -ms-flex-align: stretch;
+  align-items: stretch;
 }
 .footer .footer__subscribe .button__input .footer__button {
   color: white;
@@ -421,8 +421,8 @@
   .banner {
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
   }
   .banner h1 {
     width: 100% !important;
@@ -439,7 +439,7 @@
   .banner .banner__item1 {
     margin-bottom: 45px;
     -webkit-transform: none !important;
-            transform: none !important;
+    transform: none !important;
     width: 100% !important;
   }
   .banner p {
@@ -449,8 +449,8 @@
   .brand {
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
     width: -webkit-max-content !important;
     width: -moz-max-content !important;
     width: max-content !important;
@@ -464,18 +464,18 @@
   .area1 {
     -webkit-box-orient: vertical;
     -webkit-box-direction: reverse;
-        -ms-flex-direction: column-reverse;
-            flex-direction: column-reverse;
+    -ms-flex-direction: column-reverse;
+    flex-direction: column-reverse;
   }
 
   .area2 {
     position: relative;
     -ms-flex-wrap: nowrap;
-        flex-wrap: nowrap;
+    flex-wrap: nowrap;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
     background-position: center;
     background-repeat: no-repeat;
     width: 100%;
@@ -494,8 +494,8 @@
     width: fit-content !important;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
   }
 
   .area3__price--item {
@@ -517,8 +517,8 @@
   .footer {
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
   }
 
   .footer__menu {
@@ -527,8 +527,8 @@
     width: fit-content !important;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
   }
 
   .area1__item1 {
@@ -551,8 +551,8 @@
   .area1--reverse {
     -webkit-box-orient: vertical !important;
     -webkit-box-direction: reverse !important;
-        -ms-flex-direction: column-reverse !important;
-            flex-direction: column-reverse !important;
+    -ms-flex-direction: column-reverse !important;
+    flex-direction: column-reverse !important;
   }
 
   .area4 {
@@ -582,8 +582,8 @@
 
   .footer {
     -webkit-box-pack: justify;
-        -ms-flex-pack: justify;
-            justify-content: space-between;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
     width: -webkit-fit-content;
     width: -moz-fit-content;
     width: fit-content;
