@@ -9,7 +9,7 @@ $TEST: blue;
 }
 .header {
   background-size: contain;
-  background-image: url(../tangocanh24112003.github.io/SHAPE/svg-image/hero-bg.svg);
+  background-image: url(./svg-image/hero-bg.svg);
   height: 130vh;
   position: relative;
   background-position: 0px 16rem;
@@ -143,7 +143,7 @@ $TEST: blue;
   margin: auto;
   width: 1280px;
   margin-top: 201px;
-  background-image: url(../tangocanh24112003.github.io/SHAPE/image/features-bg.png);
+  background-image: url(./image/features-bg.png);
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -245,7 +245,7 @@ $TEST: blue;
   }
 }
 .area4 {
-  background-image: url(../tangocanh24112003.github.io/SHAPE/image/cta-bg.png);
+  background-image: url(./image/cta-bg.png);
   padding: 83px 0px 0 0;
   background-position: 0 -3rem;
   background-repeat: no-repeat;
