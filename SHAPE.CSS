@@ -522,6 +522,7 @@
   }
 
   .footer__menu {
+    margin-left: 3vh;
     width: -webkit-fit-content !important;
     width: -moz-fit-content !important;
     width: fit-content !important;
